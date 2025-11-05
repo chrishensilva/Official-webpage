@@ -1,4 +1,3 @@
-import vid1 from './assets/1.mp4';
 import img1 from './assets/vid1.png';
 
 function Video()

@@ -1,6 +1,7 @@
 {
   "name": "card-project",
   "private": true,
+  "homepage": "https://chrishensilva.github.io/Official-webpage",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
